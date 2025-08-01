@@ -14,6 +14,11 @@
 
 No modules.
 
+## Usages
+
+- [clusters](examples/clusters/main.tf)
+- [node_pools](examples/node_pools/main.tf)
+
 ## Resources
 
 | Name | Type |
